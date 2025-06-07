@@ -1,0 +1,18 @@
+📊 Creating VDR structure distribution table...
+📊 Processed 195 out of 195 structures from vdr_structures.csv
+
+                  Human       Rats   Zebra Fish    Sea Lamprey
+--------------------------------------------------------
+       1-2 Å         30         26          6          -
+     2-2.5 Å         11         38         32          -
+      2.5+ Å          7          8         36          1
+--------------------------------------------------------
+      Total:         48         72         74          1
+
+📈 Grand Total: 195 VDR structures
+
+📊 VDR Statistics:
+  VDR from Human: 48 structures (24.6%)
+  VDR from Rats: 72 structures (36.9%)
+  VDR from Zebra Fish: 74 structures (37.9%)
+  VDR from Sea Lamprey: 1 structures (0.5%)

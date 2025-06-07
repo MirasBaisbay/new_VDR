@@ -1,0 +1,64 @@
+🔍 SPACE GROUP ANALYSIS
+==================================================
+📊 Total structures: 195
+📊 Structures with space group data: 195
+
+🏗️  SPACE GROUP DISTRIBUTION:
+------------------------------
+  P 65 2 2        | Hexagonal    |  74 ( 37.9%)
+  C 1 2 1         | Monoclinic   |  69 ( 35.4%)
+  P 21 21 21      | Orthorhombic |  49 ( 25.1%)
+  P 21 21 2       | Orthorhombic |   2 (  1.0%)
+  P 1 21 1        | Monoclinic   |   1 (  0.5%)
+
+🔬 CRYSTAL SYSTEM DISTRIBUTION:
+------------------------------
+  Hexagonal       |  74 ( 37.9%)
+  Monoclinic      |  70 ( 35.9%)
+  Orthorhombic    |  51 ( 26.2%)
+
+🧬 SPACE GROUPS BY VDR ORGANISM:
+----------------------------------------
+
+  Danio rerio:
+    P 65 2 2        (Hexagonal   ): 74
+
+  Homo sapiens:
+    P 21 21 21      (Orthorhombic): 48
+
+  Petromyzon marinus:
+    P 21 21 21      (Orthorhombic): 1
+
+  Rattus norvegicus:
+    C 1 2 1         (Monoclinic  ): 69
+    P 21 21 2       (Orthorhombic): 2
+    P 1 21 1        (Monoclinic  ): 1
+
+📐 SPACE GROUP vs RESOLUTION ANALYSIS:
+---------------------------------------------
+Average resolution by space group (≥2 structures):
+Space Group     | Avg Res (Å)  | Std Dev  | Count
+--------------------------------------------------
+P 21 21 2       |     1.90     |   0.13 |   2
+P 21 21 21      |     1.99     |   0.44 |  49
+C 1 2 1         |     2.13     |   0.31 |  69
+P 65 2 2        |     2.45     |   0.32 |  74
+
+📊 Creating VDR structure distribution table...
+📊 Processed 195 out of 195 structures from vdr_structures_enhanced.csv
+
+                  Human       Rats Zebra FishSea Lamprey
+--------------------------------------------------------
+       1-2 Å         30         26          6          -
+     2-2.5 Å         11         38         32          -
+      2.5+ Å          7          8         36          1
+--------------------------------------------------------
+      Total:         48         72         74          1
+
+📈 Grand Total: 195 VDR structures
+
+📊 VDR Statistics:
+  VDR from Human: 48 structures (24.6%)
+  VDR from Rats: 72 structures (36.9%)
+  VDR from Zebra Fish: 74 structures (37.9%)
+  VDR from Sea Lamprey: 1 structures (0.5%)
