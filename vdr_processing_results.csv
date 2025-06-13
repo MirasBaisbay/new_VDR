@@ -1,0 +1,11 @@
+pdb_id,original_file,cleaned_file,minimized_file,coa_stripped,repair_issues,energy_change,avg_bfactor,high_bfactor_residues,low_bfactor_residues
+5V39,pdb_files\5V39.pdb,pdb_files\5V39_cleaned.pdb,,0,0,,21.45829237307623,2,208
+6XZH,pdb_files\6XZH.pdb,pdb_files\6XZH_cleaned.pdb,,0,0,,86.5863473127779,245,0
+6XZI,pdb_files\6XZI.pdb,pdb_files\6XZI_cleaned.pdb,,0,0,,57.77753341819835,163,0
+6XZJ,pdb_files\6XZJ.pdb,pdb_files\6XZJ_cleaned.pdb,,0,0,,65.28629419118298,236,0
+6XZK,pdb_files\6XZK.pdb,pdb_files\6XZK_cleaned.pdb,,0,2,,49.04707330930346,98,3
+6XZV,pdb_files\6XZV.pdb,pdb_files\6XZV_cleaned.pdb,,0,1,,73.86089479082595,236,0
+3B0T,pdb_files\3B0T.pdb,pdb_files\3B0T_cleaned.pdb,,0,0,,15.902462930770014,0,251
+7QPP,pdb_files\7QPP.pdb,pdb_files\7QPP_cleaned.pdb,,0,0,,16.58502029591867,1,231
+8PWD,pdb_files\8PWD.pdb,pdb_files\8PWD_cleaned.pdb,,0,0,,112.42602173154303,246,0
+8PWE,pdb_files\8PWE.pdb,pdb_files\8PWE_cleaned.pdb,,0,0,,48.884737509924214,101,8

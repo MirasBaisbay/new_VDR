@@ -1615,7 +1615,7 @@ def main():
         },
         "return_type": "entry",
         "request_options": {
-            "paginate": {"start": 0, "rows": 200},
+            "paginate": {"start": 0, "rows": 300},
             "results_content_type": ["experimental"],
             "sort": [{"sort_by": "score", "direction": "desc"}],
             "scoring_strategy": "combined",
@@ -1639,6 +1639,8 @@ def main():
     
     # Enhanced processing with fixed function
     all_structures = process_and_save_structures(pdb_ids_to_process)
+    
+    download_structures(pdb_ids_to_process, output_dir=OUTPUT_DIR)
     
     # Create visualization
     create_plots = input(f"\n❓ Create space group analysis plots? (y/N): ").strip().lower()
