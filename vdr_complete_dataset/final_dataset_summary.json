@@ -1,0 +1,16 @@
+{
+  "dataset_info": {
+    "total_structures": 209,
+    "processed": 204,
+    "successful_repairs": 176,
+    "no_repair_needed": 0,
+    "failed": 28,
+    "total_usable": 176,
+    "success_rate": 86.27450980392157
+  },
+  "repair_statistics": {
+    "missing_residues_filled": 10205,
+    "total_residues_grafted": 10143,
+    "average_rmsd": 10.767243007555152
+  }
+}
