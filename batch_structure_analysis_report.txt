@@ -1,0 +1,63 @@
+Batch Structure Analysis Report
+==================================================
+
+SUMMARY:
+Total structures analyzed: 48
+Successful comparisons: 48
+
+DETAILED RESULTS:
+--------------------------------------------------------------------------------
+PDB Code   Orig Atoms   Rep Atoms    Atoms Added  Prot Res   Seq OK   Heterogens
+--------------------------------------------------------------------------------
+1DB1       2186         4587         2401         250        YES      VDX
+1IE8       2239         4744         2505         250        YES      KH1
+1IE9       2276         4828         2552         255        YES      VDX
+1S0Z       2128         2129         1            253        YES      EB1
+1S19       2226         2227         1            253        YES      MC9
+1TXI       2176         4530         2354         253        YES      TX5
+2HAM       2209         4631         2422         253        YES      C33
+2HAR       2196         4595         2399         252        YES      OCC
+2HAS       2198         4596         2398         253        YES      C3O
+2HB7       2222         4661         2439         254        YES      O1C
+2HB8       2191         2192         1            254        YES      MVD
+3A2I       2045         4137         2092         253        YES      TEJ
+3A2J       2070         4212         2142         253        YES      TEJ
+3A3Z       2516         5509         2993         255        YES      2MV,SO4
+3A40       2527         5542         3015         255        YES      23R,SO4
+3A78       2435         5270         2835         255        YES      3EV,SO4
+3AUQ       2058         4167         2109         253        YES      CA9
+3AUR       2123         4362         2239         253        YES      CA9
+3AX8       2059         4170         2111         253        YES      EIM
+3AZ1       2260         4796         2536         250        YES      DS2
+3AZ2       2270         4826         2556         250        YES      DS3
+3AZ3       2177         4547         2370         250        YES      DS6
+3B0T       2327         4968         2641         254        YES      MCZ,SO4
+3CS4       2209         4620         2411         254        YES      COV
+3CS6       2243         4722         2479         254        YES      0CO
+3KPZ       2179         4532         2353         253        YES      ZNE
+3M7R       2205         4622         2417         253        YES      VDX
+3OGT       2425         5244         2819         254        YES      FMV,SO4
+3P8X       2294         4847         2553         255        YES      SO4,ZYD
+3TKC       2425         5244         2819         254        YES      FMV,SO4
+3VHW       2158         4448         2290         254        YES      VHW
+3W0A       2295         4879         2584         250        YES      DS5
+3W0C       2224         4668         2444         250        YES      6DS
+3W0Y       2316         4937         2621         250        YES      DS4
+3WGP       2361         5105         2744         250        YES      ED9
+3WWR       2059         4158         2099         254        YES      3AJ
+3X31       2102         4298         2196         254        YES      41V
+3X36       2182         4538         2356         254        YES      41W
+4G2I       2273         4797         2524         253        YES      0VQ
+4ITE       2103         4294         2191         253        YES      TEY
+4ITF       2062         4171         2109         253        YES      TFY
+5GT4       2134         4377         2243         255        YES      2KB
+5V39       2112         4351         2239         251        YES      8VM
+5YSY       2235         4685         2450         255        YES      90L
+5YT2       2211         4613         2402         255        YES      90O
+7QPP       4558         5391         833          255        YES      SO4,VDX
+8IQN       2171         5198         3027         254        NO       SRF
+8IQT       2160         5168         3008         254        NO       SV0
+
+STRUCTURES WITH SEQUENCE CHANGES:
+8IQN: +52 protein residues
+8IQT: +52 protein residues

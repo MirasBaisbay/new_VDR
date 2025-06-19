@@ -1,0 +1,64 @@
+VDR Structure Processing Summary
+==================================================
+
+Total structures processed: 48
+Input folder: pdb_files/Homo sapiens
+Output folder: vdr_processed\repaired_structures
+
+STRUCTURE DETAILS:
+----------------------------------------
+PDB    Resolution Missing  Atoms+   Recommendation       Ligands
+----------------------------------------
+3B0T   1.30Å      0        2641     GOOD                 MCZ,SO4,HOH
+3AZ3   1.36Å      0        2370     GOOD                 DS6,HOH
+1IE9   1.40Å      0        2552     GOOD                 VDX,HOH
+3A40   1.45Å      0        3015     GOOD                 SO4,HOH,23R
+3AZ1   1.50Å      0        2536     GOOD                 DS2,HOH
+1IE8   1.52Å      0        2505     GOOD                 KH1,HOH
+7QPP   1.52Å      0        833      GOOD                 VDX,SO4,HOH
+8IQN   1.64Å      1        3027     CONSIDER_MINIMIZATION SRF,HOH
+3AZ2   1.69Å      0        2556     GOOD                 DS3,HOH
+3P8X   1.70Å      0        2553     GOOD                 ZYD,SO4,HOH
+3A3Z   1.72Å      0        2993     GOOD                 2MV,SO4,HOH
+3OGT   1.75Å      0        2819     GOOD                 FMV,SO4,HOH
+3TKC   1.75Å      0        2819     GOOD                 FMV,SO4,HOH
+8IQT   1.75Å      1        3008     CONSIDER_MINIMIZATION SV0,HOH
+1DB1   1.80Å      0        2401     GOOD                 VDX,HOH
+2HB7   1.80Å      0        2439     GOOD                 O1C,HOH
+3CS6   1.80Å      0        2479     GOOD                 HOH,0CO
+3M7R   1.80Å      0        2417     GOOD                 VDX,HOH
+3W0A   1.80Å      0        2584     GOOD                 DS5,HOH
+4G2I   1.80Å      0        2524     GOOD                 0VQ,HOH
+5GT4   1.83Å      0        2243     GOOD                 2KB,HOH
+1TXI   1.90Å      0        2354     GOOD                 HOH,TX5
+2HAM   1.90Å      0        2422     GOOD                 HOH,C33
+2HAR   1.90Å      0        2399     GOOD                 OCC,HOH
+3A78   1.90Å      0        2835     GOOD                 3EV,SO4,HOH
+3KPZ   1.90Å      0        2353     GOOD                 HOH,ZNE
+3W0C   1.90Å      0        2444     GOOD                 6DS,HOH
+3X36   1.93Å      0        2356     GOOD                 HOH,41W
+2HAS   1.96Å      0        2398     GOOD                 HOH,C3O
+3W0Y   1.98Å      0        2621     GOOD                 DS4,HOH
+2HB8   2.00Å      0        1        GOOD                 MVD,HOH
+3CS4   2.00Å      0        2411     GOOD                 HOH,COV
+3WGP   2.00Å      0        2744     GOOD                 ED9,HOH
+5YSY   2.00Å      0        2450     GOOD                 90L,HOH
+5YT2   2.00Å      0        2402     GOOD                 HOH,90O
+1S19   2.10Å      0        1        GOOD                 MC9,HOH
+3X31   2.11Å      0        2196     GOOD                 41V,HOH
+5V39   2.20Å      0        2239     GOOD                 8VM,HOH
+3AUR   2.21Å      0        2239     GOOD                 HOH,CA9
+3VHW   2.43Å      0        2290     GOOD                 VHW,HOH
+4ITE   2.49Å      0        2191     GOOD                 TEY,HOH
+1S0Z   2.50Å      0        1        GOOD                 EB1,HOH
+3AX8   2.60Å      0        2111     CONSIDER_MINIMIZATION EIM,HOH
+3AUQ   2.64Å      0        2109     CONSIDER_MINIMIZATION HOH,CA9
+3A2J   2.70Å      0        2142     CONSIDER_MINIMIZATION TEJ,HOH
+4ITF   2.84Å      0        2109     CONSIDER_MINIMIZATION TFY,HOH
+3WWR   3.18Å      0        2099     NEEDS_MINIMIZATION   3AJ
+3A2I   3.27Å      0        2092     NEEDS_MINIMIZATION   TEJ
+
+SUMMARY:
+  GOOD (use repaired): 40
+  CONSIDER minimization: 6
+  NEEDS minimization: 2
